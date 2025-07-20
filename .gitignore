@@ -1,0 +1,10 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# OS / IDE / Tooling
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
